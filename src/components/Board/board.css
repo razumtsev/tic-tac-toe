@@ -1,0 +1,14 @@
+.board {
+
+}
+
+.board__info {
+  margin: 3px 0;
+  font-weight: 600;
+}
+
+.squares {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  justify-content: center;
+}
